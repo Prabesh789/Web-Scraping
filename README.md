@@ -5,7 +5,8 @@ This repository contains a Python script for **web scraping** as part of my lear
 
 The data for this project has been scraped from the following publicly available source:
 
-**[Fortune Global 500 List on Wikipedia](https://en.wikipedia.org/wiki/Fortune_Global_500)**
+**[
+List of largest companies in the United States by revenue](https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue)**
 ---
 
 ## Table of Contents
